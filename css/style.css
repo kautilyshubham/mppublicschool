@@ -359,11 +359,6 @@ a:focus {
 
 /* admission section */
 
-
-.admission_section .container-fluid.position-relative {
-  height: 500px;
-}
-
 .admission_container {
   width: 770px;
   bottom: 0;
